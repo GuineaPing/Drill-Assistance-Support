@@ -1,0 +1,25 @@
+body {
+    background-color: gainsboro;
+    font-family: sans-serif; 
+  }
+  
+h1 {
+    color: black;
+    margin-left: 20px;
+}
+
+p {
+    margin: 25px 25px;
+}
+
+.page_margins {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+ }
+
+.top-bottom-one {
+    margin-top: 100px;
+    margin-bottom: 100px;
+ }
