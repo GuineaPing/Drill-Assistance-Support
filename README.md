@@ -8,6 +8,32 @@
 
 <br>
 
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-06 at 13 52 45](https://github.com/user-attachments/assets/af9e2687-e37c-42d3-85e8-276b90dcbc1a)
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-06 at 13 52 39](https://github.com/user-attachments/assets/e9d49794-33ba-498f-b2b9-a86aa1c5da11)
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-06 at 13 52 26](https://github.com/user-attachments/assets/729efba6-4eb6-44f0-b087-16ef405ef986)
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-06 at 13 51 46](https://github.com/user-attachments/assets/5bfc9a89-5b7a-4786-84b3-dcbffc79478e)
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-06 at 13 51 35](https://github.com/user-attachments/assets/1f086f05-7b9c-49fb-ac25-08c995941e6c)
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-06 at 13 51 12](https://github.com/user-attachments/assets/f25ed86e-fda0-4c82-ac9c-723295e0c218)
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-06 at 13 50 49](https://github.com/user-attachments/assets/87973ba6-3a2e-4b56-81a9-12f51c528097)
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-06 at 13 50 09](https://github.com/user-attachments/assets/fe391575-b034-4821-bef7-219a766a1c1c)
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-06 at 13 49 40](https://github.com/user-attachments/assets/73b1b097-8fac-4164-849e-2808333b55c1)
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-06 at 13 49 24](https://github.com/user-attachments/assets/e4b51595-a9bc-4cc6-b35d-d12693fef5d6)
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-06 at 13 49 11](https://github.com/user-attachments/assets/43b1748f-23e7-431f-ab09-893c74538457)
+
+<img src="https://github.com/user-attachments/assets/af9e2687-e37c-42d3-85e8-276b90dcbc1a" width="270" height="560">
+<img src="https://github.com/user-attachments/assets/e9d49794-33ba-498f-b2b9-a86aa1c5da11" width="270" height="560">
+<img src="https://github.com/user-attachments/assets/729efba6-4eb6-44f0-b087-16ef405ef986" width="270" height="560">
+<img src="https://github.com/user-attachments/assets/5bfc9a89-5b7a-4786-84b3-dcbffc79478e" width="270" height="560">
+<img src="https://github.com/user-attachments/assets/1f086f05-7b9c-49fb-ac25-08c995941e6c" width="270" height="560">
+<img src="https://github.com/user-attachments/assets/f25ed86e-fda0-4c82-ac9c-723295e0c218" width="270" height="560">
+<img src="https://github.com/user-attachments/assets/87973ba6-3a2e-4b56-81a9-12f51c528097" width="270" height="560">
+<img src="https://github.com/user-attachments/assets/fe391575-b034-4821-bef7-219a766a1c1c" width="270" height="560">
+<img src="https://github.com/user-attachments/assets/73b1b097-8fac-4164-849e-2808333b55c1" width="270" height="560">
+<img src="https://github.com/user-attachments/assets/e4b51595-a9bc-4cc6-b35d-d12693fef5d6" width="270" height="560">
+<img src="https://github.com/user-attachments/assets/43b1748f-23e7-431f-ab09-893c74538457" width="270" height="560">
+
+<br>
+
 <img src="https://github.com/user-attachments/assets/bba2f05e-7d0e-402f-b646-639bdc2e08d8" width="270" height="300">
 <img src="https://github.com/user-attachments/assets/98569f51-a402-43ca-8ace-675d875f7980" width="270" height="300">
 <img src="https://github.com/user-attachments/assets/72d7cd9e-4c54-4837-8c4a-007b9c2e8247" width="270" height="300">
