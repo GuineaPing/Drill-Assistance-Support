@@ -11,9 +11,6 @@
 <img src="https://github.com/user-attachments/assets/8bf95a47-67d3-42f4-a3b0-ae7e748bf469" width="270" height="560" alt="settings">
 <img src="https://github.com/user-attachments/assets/821c56ac-964f-45b6-a7b3-f6cda7dd2540" width="270" height="560" alt="settings playback">
 
-![Simulator Screenshot - iPhone 16 Plus - 2024-12-07 at 10 25 00](https://github.com/user-attachments/assets/8bf95a47-67d3-42f4-a3b0-ae7e748bf469)
-![Simulator Screenshot - iPhone 16 Plus - 2024-12-07 at 10 25 10](https://github.com/user-attachments/assets/821c56ac-964f-45b6-a7b3-f6cda7dd2540)
-
 <br>
 <hr>
 <br>
