@@ -1,15 +1,5 @@
 # Drill Assistance application support
 
-<img src="https://github.com/user-attachments/assets/7e272d47-74ea-4814-bdf3-84ac348f62f4" width="270" height="560">
-<img src="https://github.com/user-attachments/assets/057b6257-a7c4-4777-bc0f-d5a7faec0136" width="270" height="560">
-<img src="https://github.com/user-attachments/assets/44b5a3af-da60-40e4-ac40-d758639ebf92" width="270" height="560">
-<img src="https://github.com/user-attachments/assets/10197964-6ada-4aa0-9dd7-21add33ea4bb" width="270" height="560">
-<img src="https://github.com/user-attachments/assets/ba76535a-4592-4357-9aea-6dc49a4dc695" width="270" height="560">
-
-<br>
-<hr>
-<br>
-
 <img src="https://github.com/user-attachments/assets/43b1748f-23e7-431f-ab09-893c74538457" width="270" height="560" alt="words list">
 <img src="https://github.com/user-attachments/assets/73b1b097-8fac-4164-849e-2808333b55c1" width="270" height="560" alt="words list comments">
 <img src="https://github.com/user-attachments/assets/87973ba6-3a2e-4b56-81a9-12f51c528097" width="270" height="560" alt="words list playbacks">
@@ -18,8 +8,10 @@
 <img src="https://github.com/user-attachments/assets/1f086f05-7b9c-49fb-ac25-08c995941e6c" width="270" height="560" alt="word edit">
 <img src="https://github.com/user-attachments/assets/5bfc9a89-5b7a-4786-84b3-dcbffc79478e" width="270" height="560" alt="word edit voice">
 <img src="https://github.com/user-attachments/assets/729efba6-4eb6-44f0-b087-16ef405ef986" width="270" height="560" alt="data operations">
-<img src="https://github.com/user-attachments/assets/af9e2687-e37c-42d3-85e8-276b90dcbc1a" width="270" height="560" alt="settings">
-<img src="https://github.com/user-attachments/assets/e9d49794-33ba-498f-b2b9-a86aa1c5da11" width="270" height="560" alt="settings playback">
+<img src="https://github.com/user-attachments/assets/8bf95a47-67d3-42f4-a3b0-ae7e748bf469" width="270" height="560" alt="settings">
+<img src="https://github.com/user-attachments/assets/821c56ac-964f-45b6-a7b3-f6cda7dd2540" width="270" height="560" alt="settings playback">
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-07 at 10 25 00](https://github.com/user-attachments/assets/8bf95a47-67d3-42f4-a3b0-ae7e748bf469)
+![Simulator Screenshot - iPhone 16 Plus - 2024-12-07 at 10 25 10](https://github.com/user-attachments/assets/821c56ac-964f-45b6-a7b3-f6cda7dd2540)
 
 <br>
 <hr>
