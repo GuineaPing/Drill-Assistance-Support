@@ -32,6 +32,9 @@
 <img src="https://github.com/user-attachments/assets/cc7327ef-49f1-49e0-b76b-4e96728d66ae" width="19" height="24">
 <img src="https://github.com/user-attachments/assets/a81149f3-845a-4ced-85b9-a396ee595f82" width="29" height="22">
 
+<br>
 https://github.com/user-attachments/files/18068016/turkish-colors.txt
+<br>
 https://github.com/user-attachments/files/18068039/quiet-night-thoughts.drill.txt
+<br>
 https://github.com/user-attachments/files/18068046/w-c-willams.drill.txt
