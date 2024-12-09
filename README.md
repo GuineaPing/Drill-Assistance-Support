@@ -36,3 +36,6 @@
 [quiet-night-thoughts.drill.txt](https://github.com/user-attachments/files/18068039/quiet-night-thoughts.drill.txt)
 [w-c-willams.drill.txt](https://github.com/user-attachments/files/18068046/w-c-willams.drill.txt)
 
+https://github.com/user-attachments/files/18068016/turkish-colors.txt
+https://github.com/user-attachments/files/18068039/quiet-night-thoughts.drill.txt
+https://github.com/user-attachments/files/18068046/w-c-willams.drill.txt
