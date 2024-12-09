@@ -33,35 +33,6 @@
 <img src="https://github.com/user-attachments/assets/a81149f3-845a-4ced-85b9-a396ee595f82" width="29" height="22">
 
 [turkish-colors.txt](https://github.com/user-attachments/files/18068016/turkish-colors.txt)
-[Uplo[
-  {
-    "name": "Li Bai, 靜夜思\nQuiet Night Thought",
-    "selected": true,
-    "words": [
-      {
-        "comments": "Chuáng qián míngyuè guāng\nBefore my bed lies a pool of moon bright",
-        "lang": "zh-CN Tingting",
-        "sortInd": 1,
-        "text": "床前明月光"
-      },
-      {
-        "comments": "Yí shì dìshang shuāng\nI could imagine that it's frost on the ground",
-        "sortInd": 2,
-        "text": "疑是地上霜",
-        "lang": "zh-CN Tingting"
-      },
-      {
-        "text": "举头望明月",
-        "sortInd": 3,
-        "lang": "zh-CN Tingting",
-        "comments": "Yí shì dìshang shuāng\nI look up and see the bright shining moon"
-      },
-      {
-        "lang": "zh-CN Tingting",
-        "text": "低头思故乡",
-        "sortInd": 4,
-        "comments": "Dītóu sī gùxiāng\nBowing my head I am thinking of home"
-      }
-    ]
-  }
-]ading quiet-night-thoughts.drill.txt…]()
+[quiet-night-thoughts.drill.txt](https://github.com/user-attachments/files/18068039/quiet-night-thoughts.drill.txt)
+[w-c-willams.drill.txt](https://github.com/user-attachments/files/18068046/w-c-willams.drill.txt)
+
