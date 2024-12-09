@@ -1,0 +1,56 @@
+[
+  {
+    "name": "'Welcome' samples",
+    "selected": true,
+    "words": [
+      {
+        "lang": "es-ES Mónica",
+        "text": "Bienvenida",
+        "sortInd": 1,
+        "comments": ""
+      },
+      {
+        "lang": "",
+        "text": "欢迎",
+        "comments": "Huānyíng",
+        "sortInd": 2
+      },
+      {
+        "comments": "",
+        "sortInd": 3,
+        "text": "مرحباً",
+        "lang": ""
+      },
+      {
+        "sortInd": 4,
+        "text": "स्वागत",
+        "lang": "",
+        "comments": ""
+      },
+      {
+        "sortInd": 5,
+        "lang": "",
+        "comments": "",
+        "text": "いらっしゃいませ"
+      },
+      {
+        "comments": "",
+        "text": "boas-vindas",
+        "lang": "",
+        "sortInd": 6
+      },
+      {
+        "sortInd": 7,
+        "text": "Hoş geldin",
+        "comments": "",
+        "lang": ""
+      },
+      {
+        "comments": "",
+        "sortInd": 8,
+        "lang": "",
+        "text": "환영"
+      }
+    ]
+  }
+]
